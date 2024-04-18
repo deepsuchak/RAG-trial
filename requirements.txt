@@ -2,3 +2,4 @@ llama-index
 pypdf
 python-dotenv
 pandas
+streamlit
